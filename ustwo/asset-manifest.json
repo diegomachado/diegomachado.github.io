@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.08d7f357.chunk.css",
+    "main.js": "./static/js/main.d09f09ae.chunk.js",
+    "main.js.map": "./static/js/main.d09f09ae.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d8ef5463.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d8ef5463.js.map",
+    "static/js/2.7b1e34da.chunk.js": "./static/js/2.7b1e34da.chunk.js",
+    "static/js/2.7b1e34da.chunk.js.map": "./static/js/2.7b1e34da.chunk.js.map",
+    "static/js/3.00ee5cfb.chunk.js": "./static/js/3.00ee5cfb.chunk.js",
+    "static/js/3.00ee5cfb.chunk.js.map": "./static/js/3.00ee5cfb.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.08d7f357.chunk.css.map": "./static/css/main.08d7f357.chunk.css.map",
+    "static/js/2.7b1e34da.chunk.js.LICENSE.txt": "./static/js/2.7b1e34da.chunk.js.LICENSE.txt",
+    "static/media/gazeus.651a961d.png": "./static/media/gazeus.651a961d.png",
+    "static/media/me.30cc2073.jpg": "./static/media/me.30cc2073.jpg",
+    "static/media/ustwo-games.116b64e6.svg": "./static/media/ustwo-games.116b64e6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8ef5463.js",
+    "static/js/2.7b1e34da.chunk.js",
+    "static/css/main.08d7f357.chunk.css",
+    "static/js/main.d09f09ae.chunk.js"
+  ]
+}
