@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ca0ad35.chunk.css",
-    "main.js": "/static/js/main.f5bc15ea.chunk.js",
-    "main.js.map": "/static/js/main.f5bc15ea.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a4c1228a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a4c1228a.js.map",
-    "static/js/2.c6137b8e.chunk.js": "/static/js/2.c6137b8e.chunk.js",
-    "static/js/2.c6137b8e.chunk.js.map": "/static/js/2.c6137b8e.chunk.js.map",
-    "static/js/3.0ef413a7.chunk.js": "/static/js/3.0ef413a7.chunk.js",
-    "static/js/3.0ef413a7.chunk.js.map": "/static/js/3.0ef413a7.chunk.js.map",
+    "main.css": "/static/css/main.e2553eb0.chunk.css",
+    "main.js": "/static/js/main.01b9e6c3.chunk.js",
+    "main.js.map": "/static/js/main.01b9e6c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4c721f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4c721f0.js.map",
+    "static/js/2.d8cd496e.chunk.js": "/static/js/2.d8cd496e.chunk.js",
+    "static/js/2.d8cd496e.chunk.js.map": "/static/js/2.d8cd496e.chunk.js.map",
+    "static/js/3.8da5ccf0.chunk.js": "/static/js/3.8da5ccf0.chunk.js",
+    "static/js/3.8da5ccf0.chunk.js.map": "/static/js/3.8da5ccf0.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2ca0ad35.chunk.css.map": "/static/css/main.2ca0ad35.chunk.css.map",
-    "static/js/2.c6137b8e.chunk.js.LICENSE.txt": "/static/js/2.c6137b8e.chunk.js.LICENSE.txt",
+    "static/css/main.e2553eb0.chunk.css.map": "/static/css/main.e2553eb0.chunk.css.map",
+    "static/js/2.d8cd496e.chunk.js.LICENSE.txt": "/static/js/2.d8cd496e.chunk.js.LICENSE.txt",
     "static/media/Diego Machado-Resume.10a52d0c.pdf": "/static/media/Diego Machado-Resume.10a52d0c.pdf",
     "static/media/bounty-animations.544ae67f.gif": "/static/media/bounty-animations.544ae67f.gif",
     "static/media/cowboy-animations.15c63deb.gif": "/static/media/cowboy-animations.15c63deb.gif",
@@ -23,9 +23,9 @@
     "static/media/ustwo-games.116b64e6.svg": "/static/media/ustwo-games.116b64e6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4c1228a.js",
-    "static/js/2.c6137b8e.chunk.js",
-    "static/css/main.2ca0ad35.chunk.css",
-    "static/js/main.f5bc15ea.chunk.js"
+    "static/js/runtime-main.a4c721f0.js",
+    "static/js/2.d8cd496e.chunk.js",
+    "static/css/main.e2553eb0.chunk.css",
+    "static/js/main.01b9e6c3.chunk.js"
   ]
 }
